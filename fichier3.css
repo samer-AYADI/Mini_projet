@@ -1,0 +1,48 @@
+h1{
+    color : red;
+    background-color: gray;
+    font-size: 20 px;
+    font-family:Verdana;
+    font-style: italic;
+    padding: 9px;
+    margin: 20px;
+}
+h2{
+    color: rgb(14, 14, 191);
+}
+body
+{
+    font-family: verdana ; 
+}
+section 
+{
+   background-color : #553030 ; 
+   margin: 20px; 
+}
+
+a {
+    text-decoration: none; 
+}
+
+
+.LienTitre a:link {
+    color: red; 
+}
+
+.LienTitre a:visited {
+    color: black;
+}
+
+.LienTitre a:hover {
+    color: yellow;  
+}
+
+.LienTitre a::selection {
+    color: green; 
+}
+
+
+nav{
+    margin-left: 1em;
+    font-style: italic;
+}
